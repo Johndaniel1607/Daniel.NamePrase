@@ -32,6 +32,10 @@ namespace Daniel.NameParse
             var firstcomma = Fullname.IndexOf(",");
             var Lastname = Fullname.Substring(0, firstcomma);
             lblLastName.Content = " Lastname:" + Lastname;
+
+            var Secondcomma = Fullname.IndexOf(",");
+            var Firstname = Fullname.Substring(firstcomma + 1, Secondcomma);
+            lblFirstName.Content = " Firstname " + Firstname;
         }
     }
 }
