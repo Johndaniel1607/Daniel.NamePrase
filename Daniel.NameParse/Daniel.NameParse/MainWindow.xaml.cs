@@ -24,5 +24,14 @@ namespace Daniel.NameParse
         {
             InitializeComponent();
         }
+
+        private void btnCalulate_Click(object sender, RoutedEventArgs e)
+        {
+            string Fullname = TxtFullname.Text;
+
+            var firstcomma = Fullname.IndexOf(",");
+            var Lastname = Fullname.Substring(0, firstcomma);
+            lblLastName.Content = " Lastname:" + Lastname;
+        }
     }
 }

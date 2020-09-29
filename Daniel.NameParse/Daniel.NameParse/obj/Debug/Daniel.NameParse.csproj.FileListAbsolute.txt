@@ -1,0 +1,15 @@
+C:\Users\TOSHIBA\Desktop\major ICT\Project3\Daniel.NameParse\Daniel.NameParse\Daniel.NameParse\bin\Debug\Daniel.NameParse.exe.config
+C:\Users\TOSHIBA\Desktop\major ICT\Project3\Daniel.NameParse\Daniel.NameParse\Daniel.NameParse\bin\Debug\Daniel.NameParse.exe
+C:\Users\TOSHIBA\Desktop\major ICT\Project3\Daniel.NameParse\Daniel.NameParse\Daniel.NameParse\bin\Debug\Daniel.NameParse.pdb
+C:\Users\TOSHIBA\Desktop\major ICT\Project3\Daniel.NameParse\Daniel.NameParse\Daniel.NameParse\obj\Debug\Daniel.NameParse.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\major ICT\Project3\Daniel.NameParse\Daniel.NameParse\Daniel.NameParse\obj\Debug\MainWindow.g.cs
+C:\Users\TOSHIBA\Desktop\major ICT\Project3\Daniel.NameParse\Daniel.NameParse\Daniel.NameParse\obj\Debug\App.g.cs
+C:\Users\TOSHIBA\Desktop\major ICT\Project3\Daniel.NameParse\Daniel.NameParse\Daniel.NameParse\obj\Debug\Daniel.NameParse_MarkupCompile.cache
+C:\Users\TOSHIBA\Desktop\major ICT\Project3\Daniel.NameParse\Daniel.NameParse\Daniel.NameParse\obj\Debug\Daniel.NameParse_MarkupCompile.lref
+C:\Users\TOSHIBA\Desktop\major ICT\Project3\Daniel.NameParse\Daniel.NameParse\Daniel.NameParse\obj\Debug\MainWindow.baml
+C:\Users\TOSHIBA\Desktop\major ICT\Project3\Daniel.NameParse\Daniel.NameParse\Daniel.NameParse\obj\Debug\Daniel.NameParse.g.resources
+C:\Users\TOSHIBA\Desktop\major ICT\Project3\Daniel.NameParse\Daniel.NameParse\Daniel.NameParse\obj\Debug\Daniel.NameParse.Properties.Resources.resources
+C:\Users\TOSHIBA\Desktop\major ICT\Project3\Daniel.NameParse\Daniel.NameParse\Daniel.NameParse\obj\Debug\Daniel.NameParse.csproj.GenerateResource.cache
+C:\Users\TOSHIBA\Desktop\major ICT\Project3\Daniel.NameParse\Daniel.NameParse\Daniel.NameParse\obj\Debug\Daniel.NameParse.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\major ICT\Project3\Daniel.NameParse\Daniel.NameParse\Daniel.NameParse\obj\Debug\Daniel.NameParse.exe
+C:\Users\TOSHIBA\Desktop\major ICT\Project3\Daniel.NameParse\Daniel.NameParse\Daniel.NameParse\obj\Debug\Daniel.NameParse.pdb
